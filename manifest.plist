@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://bs3.cdn.telerik.com/v1/ZSMMpXIagDzMjYOW/24acf1d0-987c-11e7-b856-694badf59a1d</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://bs2.cdn.telerik.com/v1/ZSMMpXIagDzMjYOW/28a750f0-987c-11e7-83b9-b3b845cdbb50</string>
+                    </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>full-size-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://bs2.cdn.telerik.com/v1/ZSMMpXIagDzMjYOW/28a750f0-987c-11e7-83b9-b3b845cdbb50</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.telerik.AppManager</string>
+                    <key>bundle-version</key>
+                    <string>1.8</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>Scan & Assure</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
